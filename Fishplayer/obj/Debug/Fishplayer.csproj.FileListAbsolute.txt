@@ -1,1 +1,11 @@
 d:\Data\Documents\Repositories\Fishplayer\Fishplayer\bin\Debug\Fishplayer.exe.config
+d:\Data\Documents\Repositories\Fishplayer\Fishplayer\obj\Debug\Fishplayer.csprojResolveAssemblyReference.cache
+d:\Data\Documents\Repositories\Fishplayer\Fishplayer\obj\Debug\Fishplayer.Form1.resources
+d:\Data\Documents\Repositories\Fishplayer\Fishplayer\obj\Debug\Fishplayer.Properties.Resources.resources
+d:\Data\Documents\Repositories\Fishplayer\Fishplayer\obj\Debug\Fishplayer.csproj.GenerateResource.Cache
+d:\Data\Documents\Repositories\Fishplayer\Fishplayer\bin\Debug\Fishplayer.exe
+d:\Data\Documents\Repositories\Fishplayer\Fishplayer\bin\Debug\Fishplayer.pdb
+d:\Data\Documents\Repositories\Fishplayer\Fishplayer\bin\Debug\NAudio.dll
+d:\Data\Documents\Repositories\Fishplayer\Fishplayer\bin\Debug\NAudio.xml
+d:\Data\Documents\Repositories\Fishplayer\Fishplayer\obj\Debug\Fishplayer.exe
+d:\Data\Documents\Repositories\Fishplayer\Fishplayer\obj\Debug\Fishplayer.pdb
