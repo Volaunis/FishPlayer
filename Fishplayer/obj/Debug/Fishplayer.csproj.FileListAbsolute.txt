@@ -9,3 +9,14 @@ d:\Data\Documents\Repositories\Fishplayer\Fishplayer\bin\Debug\NAudio.dll
 d:\Data\Documents\Repositories\Fishplayer\Fishplayer\bin\Debug\NAudio.xml
 d:\Data\Documents\Repositories\Fishplayer\Fishplayer\obj\Debug\Fishplayer.exe
 d:\Data\Documents\Repositories\Fishplayer\Fishplayer\obj\Debug\Fishplayer.pdb
+C:\Users\allan\OneDrive\Dokumenter\Repositories\FishPlayer\Fishplayer\bin\Debug\Fishplayer.exe.config
+C:\Users\allan\OneDrive\Dokumenter\Repositories\FishPlayer\Fishplayer\obj\Debug\Fishplayer.exe
+C:\Users\allan\OneDrive\Dokumenter\Repositories\FishPlayer\Fishplayer\obj\Debug\Fishplayer.pdb
+C:\Users\allan\OneDrive\Dokumenter\Repositories\FishPlayer\Fishplayer\bin\Debug\Fishplayer.exe
+C:\Users\allan\OneDrive\Dokumenter\Repositories\FishPlayer\Fishplayer\bin\Debug\Fishplayer.pdb
+C:\Users\allan\OneDrive\Dokumenter\Repositories\FishPlayer\Fishplayer\bin\Debug\NAudio.dll
+C:\Users\allan\OneDrive\Dokumenter\Repositories\FishPlayer\Fishplayer\bin\Debug\NAudio.xml
+C:\Users\allan\OneDrive\Dokumenter\Repositories\FishPlayer\Fishplayer\obj\Debug\Fishplayer.csprojResolveAssemblyReference.cache
+C:\Users\allan\OneDrive\Dokumenter\Repositories\FishPlayer\Fishplayer\obj\Debug\Fishplayer.Form1.resources
+C:\Users\allan\OneDrive\Dokumenter\Repositories\FishPlayer\Fishplayer\obj\Debug\Fishplayer.Properties.Resources.resources
+C:\Users\allan\OneDrive\Dokumenter\Repositories\FishPlayer\Fishplayer\obj\Debug\Fishplayer.csproj.GenerateResource.Cache
