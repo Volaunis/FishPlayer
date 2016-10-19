@@ -7,16 +7,16 @@ using NAudio.Wave;
 
 namespace Fishplayer.Models
 {
-    public class AudioFile
+    public class Track
     {
         public AudioFileReader FileReader { get; private set; }
 
-        public AudioFile(string filePath)
+        public Track(string filePath)
         {
             FileReader = new AudioFileReader(filePath);
         }
 
-        ~AudioFile()
+        ~Track()
         {
             FileReader.Dispose();
         }

@@ -20,3 +20,16 @@ C:\Users\allan\OneDrive\Dokumenter\Repositories\FishPlayer\Fishplayer\obj\Debug\
 C:\Users\allan\OneDrive\Dokumenter\Repositories\FishPlayer\Fishplayer\obj\Debug\Fishplayer.Form1.resources
 C:\Users\allan\OneDrive\Dokumenter\Repositories\FishPlayer\Fishplayer\obj\Debug\Fishplayer.Properties.Resources.resources
 C:\Users\allan\OneDrive\Dokumenter\Repositories\FishPlayer\Fishplayer\obj\Debug\Fishplayer.csproj.GenerateResource.Cache
+C:\Users\allan\Documents\Repositories\FishPlayer\Fishplayer\bin\Debug\Fishplayer.exe.config
+C:\Users\allan\Documents\Repositories\FishPlayer\Fishplayer\obj\Debug\Fishplayer.exe
+C:\Users\allan\Documents\Repositories\FishPlayer\Fishplayer\obj\Debug\Fishplayer.pdb
+C:\Users\allan\Documents\Repositories\FishPlayer\Fishplayer\bin\Debug\Fishplayer.exe
+C:\Users\allan\Documents\Repositories\FishPlayer\Fishplayer\bin\Debug\Fishplayer.pdb
+C:\Users\allan\Documents\Repositories\FishPlayer\Fishplayer\bin\Debug\NAudio.dll
+C:\Users\allan\Documents\Repositories\FishPlayer\Fishplayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\allan\Documents\Repositories\FishPlayer\Fishplayer\bin\Debug\NAudio.xml
+C:\Users\allan\Documents\Repositories\FishPlayer\Fishplayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\allan\Documents\Repositories\FishPlayer\Fishplayer\obj\Debug\Fishplayer.csprojResolveAssemblyReference.cache
+C:\Users\allan\Documents\Repositories\FishPlayer\Fishplayer\obj\Debug\Fishplayer.Player.resources
+C:\Users\allan\Documents\Repositories\FishPlayer\Fishplayer\obj\Debug\Fishplayer.Properties.Resources.resources
+C:\Users\allan\Documents\Repositories\FishPlayer\Fishplayer\obj\Debug\Fishplayer.csproj.GenerateResource.Cache
