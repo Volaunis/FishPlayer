@@ -1,5 +1,15 @@
-﻿using Newtonsoft.Json;
+<<<<<<< HEAD
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Newtonsoft.Json;
+
 namespace Fishplayer.Helpers
+=======
+﻿namespace Fishplayer.Helpers
+>>>>>>> 0b1e26d7269ade730a32cfacc959bacfb9b9163f
 {
     public class JsonHelper
     {

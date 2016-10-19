@@ -55,6 +55,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Helpers\JsonHelper.cs" />
+    <Compile Include="Helpers\PlaylistHelper.cs" />
     <Compile Include="Models\PlayerConfig.cs" />
     <Compile Include="Player.cs">
       <SubType>Form</SubType>
@@ -62,7 +63,7 @@
     <Compile Include="Player.Designer.cs">
       <DependentUpon>Player.cs</DependentUpon>
     </Compile>
-    <Compile Include="Models\AudioFile.cs" />
+    <Compile Include="Models\Track.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Player.resx">
