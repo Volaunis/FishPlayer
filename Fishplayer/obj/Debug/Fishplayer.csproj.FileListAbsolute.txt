@@ -29,7 +29,6 @@ C:\Users\allan\Documents\Repositories\FishPlayer\Fishplayer\bin\Debug\NAudio.dll
 C:\Users\allan\Documents\Repositories\FishPlayer\Fishplayer\bin\Debug\Newtonsoft.Json.dll
 C:\Users\allan\Documents\Repositories\FishPlayer\Fishplayer\bin\Debug\NAudio.xml
 C:\Users\allan\Documents\Repositories\FishPlayer\Fishplayer\bin\Debug\Newtonsoft.Json.xml
-C:\Users\allan\Documents\Repositories\FishPlayer\Fishplayer\obj\Debug\Fishplayer.csprojResolveAssemblyReference.cache
 C:\Users\allan\Documents\Repositories\FishPlayer\Fishplayer\obj\Debug\Fishplayer.Player.resources
 C:\Users\allan\Documents\Repositories\FishPlayer\Fishplayer\obj\Debug\Fishplayer.Properties.Resources.resources
 C:\Users\allan\Documents\Repositories\FishPlayer\Fishplayer\obj\Debug\Fishplayer.csproj.GenerateResource.Cache
